@@ -89,8 +89,8 @@ Estou à procura de uma oportunidade onde eu possa:
 Vamos conversar! Estou disponível para oportunidades, colaborações ou apenas um bom papo sobre tecnologia. 😊
 
 <p>
-  <a href="https://linkedin.com/in/seu-perfil">💼 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="mailto:seu@email.com">📧 E-mail</a>
+  <a href="https://www.linkedin.com/in/geovanni-dos-santos/">💼 LinkedIn</a> &nbsp;|&nbsp;
+  <a href="mailto:geeovannisant@gmail.com">📧 E-mail</a>
 </p>
 
 ---
