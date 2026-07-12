@@ -1,100 +1,101 @@
-<h1 align="center">Olá, eu sou Geovanni Santos 👋</h1>
+<h1 align="center">Olá, eu sou o Geovanni Santos 👋</h1>
+
+<h3 align="center">UX/UI Designer em formação • Front-end Developer • Estudante FullStack na Rocketseat</h3>
 
 <p align="center">
-  <b>Desenvolvedor em início de carreira · Apaixonado por tecnologia e inovação</b><br/>
-  Buscando minha primeira oportunidade na área de tecnologia e programação
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+interfaces;Apaixonado+por+UX%2FUI+e+Front-end;Aprendendo+e+construindo+todos+os+dias+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/seu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:seu@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/Disponível_para_contratação-28a745?style=for-the-badge" alt="Disponível"/>
+  <a href="#" title="Adicione aqui o link do seu LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="#" title="Em construção 🚧 - adicione aqui quando estiver pronto">
+    <img src="https://img.shields.io/badge/Portfólio-6C63FF?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
+  <a href="mailto:#" title="Adicione aqui seu e-mail">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 👩‍💻 Sobre mim
+### 💡 Sobre mim
 
-Sou um desenvolvedor em início de carreira com interesse genuíno em tecnologia, programação e no poder transformador das aplicações digitais. Acredito que a tecnologia pode ser uma ferramenta de cuidado e inclusão — e o meu projeto **LORENA** é a prova disso.
+Estou em formação **FullStack pela Rocketseat**, com foco especial em **UX/UI Design** e **Front-end**. Curto transformar problemas reais em interfaces simples, acessíveis e bonitas — do wireframe no Figma até o código funcionando no navegador.
 
-Estou em busca da minha **primeira oportunidade profissional** na área, pronto para aprender, colaborar e crescer junto com uma equipe incrível. 🚀
+- 🎨 Estudando e praticando **UX/UI Design** no Figma
+- 💻 Desenvolvendo projetos Front-end com HTML, CSS e JavaScript
+- 🗄️ Aprendendo **SQL** para entender melhor o back-end e dados
+- 🚀 Aumentando minha stack constantemente através dos desafios da Rocketseat
+- 🌱 Início de jornada — e muito animado com o que vem por aí!
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+### 🛠️ Stack & Ferramentas
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-## 🏅 Certificações
+### 🎨 Foco em UX/UI
 
-| Certificação | Área |
-|---|---|
-| 🎓 Micro Certificado em **GitHub** | Controle de versão e colaboração |
-| 🎓 Micro Certificado em **HTML** | Estrutura e semântica web |
-| 🎓 Micro Certificado em **CSS** | Estilização e design responsivo |
+Meus projetos de design nascem no Figma, com atenção a hierarquia visual, usabilidade e consistência antes de qualquer linha de código. Aqui você vai encontrar desde wireframes e protótipos até telas de alta fidelidade aplicadas nos meus projetos Front-end.
+
+> 🚧 Portfólio de UX/UI (Figma/Behance) em construção — em breve os links estarão aqui!
 
 ---
 
-## 🌟 Projeto em Destaque
+### 🚀 Projetos em Destaque
 
-### 🤖 LORENA — Babá Eletrônica para Idosos com Machine Learning
+> Seção em construção — assim que finalizarmos o perfil, vamos preencher aqui os projetos um por um. 😉
 
-> *"Cuidar de quem cuidou de nós."*
-
-**LORENA** é uma aplicação inovadora que utiliza **Machine Learning** para monitorar idosos e garantir sua segurança. O sistema detecta movimentos característicos de quedas em tempo real e dispara alertas automáticos para os familiares cadastrados.
-
-#### ✨ Como funciona
-
-1. 📷 **Monitoramento em tempo real** — O sistema analisa continuamente os movimentos do idoso
-2. 🧠 **Detecção inteligente** — O modelo de Machine Learning identifica padrões de queda
-3. 📲 **Alerta imediato** — Notificações são enviadas automaticamente aos familiares cadastrados
-
-#### 🔧 Tecnologias utilizadas
-
-| Camada | Tecnologia |
-|---|---|
-| 🤖 Inteligência Artificial | Machine Learning (Python) |
-| 🗄️ Banco de Dados | SQL |
-| 🌐 Interface | HTML + CSS |
-| ⚙️ Back-end / Lógica | Python |
-
-#### 💡 Impacto Social
-
-O projeto nasce de uma necessidade real: proporcionar **segurança e autonomia para idosos**, ao mesmo tempo em que oferece **tranquilidade para seus familiares**, mesmo à distância. LORENA demonstra como a tecnologia pode ser usada com propósito humano e social.
+| Projeto | Descrição | Tecnologias | Link |
+|---|---|---|---|
+| _Em breve_ | _Em breve_ | _Em breve_ | _Em breve_ |
 
 ---
 
-## 🎯 O que estou buscando
+### 🏆 Desafios Rocketseat
 
-Estou à procura de uma oportunidade onde eu possa:
+> Projetos desenvolvidos durante a formação **FullStack** da Rocketseat, unindo UX/UI e Front-end.
 
-- 🌱 Aprender com profissionais experientes e desenvolver minhas habilidades
-- 🤝 Contribuir com projetos que gerem impacto positivo
-- 💻 Crescer como desenvolvedora full-stack ou em uma especialização que me desafie
-- 🚀 Aplicar minha criatividade e dedicação em soluções reais
-
----
-
-## 📬 Entre em contato
-
-Vamos conversar! Estou disponível para oportunidades, colaborações ou apenas um bom papo sobre tecnologia. 😊
-
-<p>
-  <a href="https://www.linkedin.com/in/geovanni-dos-santos/">💼 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="mailto:geeovannisant@gmail.com">📧 E-mail</a>
-</p>
+| Desafio | Descrição | Tecnologias | Link |
+|---|---|---|---|
+| _Em breve_ | _Em breve_ | _Em breve_ | _Em breve_ |
 
 ---
+
+### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <i>Feito com 💜 e muita vontade de aprender</i>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JojoBrr&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JojoBrr&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JojoBrr&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📫 Vamos nos conectar?
+
+<p align="center">
+  <a href="#" title="Adicione aqui o link do seu LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="#" title="Em construção">
+    <img src="https://img.shields.io/badge/Portfólio-6C63FF?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
+</p>
+
+<p align="center"><i>Feito com 💜 por Geovanni Santos</i></p>
