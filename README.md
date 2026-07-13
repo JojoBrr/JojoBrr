@@ -3,7 +3,7 @@
 <h3 align="center">UX/UI Designer em formação • Front-end Developer • Estudante FullStack na Rocketseat</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+interfaces;Apaixonado+por+UX%2FUI+e+Front-end;Aprendendo+e+construindo+todos+os+dias+%F0%9F%9A%80" alt="Typing SVG" />
+  <img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lexend&size=18&pause=1000&width=435&lines=Transformando+ideias+em+interfaces;Apaixonado+por+desenvolvimento!;Aprendendo+e+construindo+todos+os+dias!" alt="Typing SVG" />
 </p>
 
 <p align="center">
